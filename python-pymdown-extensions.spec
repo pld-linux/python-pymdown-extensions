@@ -9,7 +9,7 @@ Summary:	Extension pack for Python Markdown
 Summary(pl.UTF-8):	Zestaw rozszerzeń do pakietu Python Markdown
 Name:		python-pymdown-extensions
 Version:	5.0
-Release:	4
+Release:	5
 License:	MIT, BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pymdown-extensions/
